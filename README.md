@@ -1,4 +1,5 @@
-## Hi there is ZiBright! 👋
+## Hi there is ZiBright! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zibright&left_color=green&right_color=red)
+
 
 <p align="center">
   <strong><a href="https://blog.zbright.top">Blog</a></strong> |
@@ -15,5 +16,7 @@
 
 ### Other Data 📊
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zibright" height="170px" /> 
-<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=zibright" alt="GitHub stats" height="170px" />
+![ZiBright's GitHub stats](https://github-readme-stats.vercel.app/api?username=zibright)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zibright)
+![ZiBright's GitHub stats](https://github-immortality.vercel.app/api?username=zibright)
+
