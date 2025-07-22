@@ -1,8 +1,4 @@
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines= Hi! There is ZiBright! 👋" alt="Typing SVG" />
-</p>
-
+<h2 align="center">Hi! There is ZiBright! 👋 </h2>
 
 ### Languages & Tools 🛠
 
@@ -15,7 +11,7 @@
 ### Other Data 📊
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibright" alt="Top Langs" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibright" alt="GitHub Status" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=zibright" alt="GitHub Status" height="170px" />
 
 ![ZiBright's GitHub stats](https://github-immortality.vercel.app/api?username=zibright)
 
