@@ -1,4 +1,4 @@
-<h2 align="center">Hi! There is ZiBright! 👋 </h2>
+<h2 align="center">Hi! There is ZiBright! (努力修炼中)👋 </h2>
 
 ### Languages & Tools 🛠
 
